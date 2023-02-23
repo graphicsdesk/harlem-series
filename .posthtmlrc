@@ -10,7 +10,7 @@
         "body": [],
         "headline": "The Harlem Gateway Waterfront: Local community responds to impending redevelopment of 125th St. West Harlem Piers",
         "date": "February 22, 2023",
-        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/Manuela-Silva/\">Manuela Silva</a>, <a href=\"https://www.columbiaspectator.com/contributors/Erica-Lee/\">Erica Lee</a>, and <a href=\"https://www.columbiaspectator.com/contributors/Isha-Banerjee/\">Isha Banerjee </a>",
+        "byline": "By Manuela Silva, Erica Lee, and Isha Banerjee",
         "pages": {
           "Page_0_link": "",
           "Page_0_title": "New Harlem Rocket Tours scheduled to come to 125th St. Piers in summer of 2023",
@@ -125,14 +125,6 @@
             {
               "type": "text",
               "value": "Garry Johnson, founder and CEO of Paradise Express Ferry, presented this proposal at the Feb. 1 Community Board 9 landmarks, preservation, and parks meeting. The vision was first revealed in a Jan. 24 Patch article, which sparked online discussion and controversy regarding the potential new attractions."
-            },
-            {
-              "type": "text",
-              "value": "<i>[LINK Manuela’s story]</i>"
-            },
-            {
-              "type": "text",
-              "value": "<i>[LINK Isha’s story]</i>"
             },
             {
               "type": "text",
@@ -335,6 +327,10 @@
             {
               "type": "text",
               "value": "<i>Staff Writer Isha Banerjee can be contacted at </i><a href=\"mailto:Isha.Banerjee@columbiaspectator.com\"><i>Isha.Banerjee@columbiaspectator.com</i></a><i>. Follow her on Twitter </i><a href=\"https://twitter.com/ishabanerjee20\"><i>@ishabanerjee.20</i></a><i>.</i>"
+            },
+            {
+              "type": "text",
+              "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>. </i></b>"
             }
           ]
         },
